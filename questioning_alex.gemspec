@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = QuestioningAlex::VERSION
   spec.authors       = ["Camilla van Klinken"]
   spec.email         = [""]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{Alex needs to stop asking questions}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
