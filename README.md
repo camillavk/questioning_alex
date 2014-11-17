@@ -1,6 +1,6 @@
 # QuestioningAlex
 
-TODO: Write a gem description
+Alex needs to stop asking silly questions.
 
 ## Installation
 
@@ -18,7 +18,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Create class;
+class Alex
+ require QuestioningAlex
+end
+
+alex = Alex.new
+alex.said("Whatever he said here")
+
 
 ## Contributing
 

@@ -2,8 +2,12 @@ require "questioning_alex/version"
 
 module QuestioningAlex
 
-  def tell
-    'Stop asking questions, Alex'
+  def said(string)
+    if string.include? '?'
+      'Stop asking questions, Alex'
+    else
+      'Stop making silly statements, Alex'
+    end
   end
 
 end
