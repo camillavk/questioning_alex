@@ -18,13 +18,13 @@ Or install it yourself as:
 
 ## Usage
 
-Create class;
-class Alex
- require QuestioningAlex
-end
+require the gem
 
-alex = Alex.new
-alex.said("Whatever he said here")
+  $ require 'questioning_alex'
+
+use the gem
+
+  $ QuestioningAlex.said("Whatever he said here")
 
 
 ## Contributing

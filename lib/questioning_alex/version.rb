@@ -1,3 +1,3 @@
-module QuestioningAlex
-  VERSION = "0.0.2"
+class QuestioningAlex
+  VERSION = "0.1.1"
 end
